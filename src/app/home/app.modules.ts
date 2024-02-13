@@ -14,7 +14,8 @@ import { HousingLocationComponent } from '../housing-location/housing-location.c
   ],
   imports: [
     BrowserModule,
-    CommonModule // Include CommonModule in the imports array
+    CommonModule, // Include CommonModule in the imports array
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
